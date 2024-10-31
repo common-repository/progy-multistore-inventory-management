@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: progy-multi-stores\n"
+"POT-Creation-Date: 2019-04-16 15:58-0500\n"
+"PO-Revision-Date: 2019-04-16 15:58-0500\n"
+"Last-Translator: \n"
+"Language-Team: Progymedia <pdeslongchamps@progymedia.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../progy-multi-stores.php:80 ../progy-multi-stores.php:82
+#: ../progy-multi-stores.php:99
+msgid "Stores"
+msgstr "Magasins"
+
+#: ../progy-multi-stores.php:81 ../progy-multi-stores.php:408
+msgid "Store"
+msgstr "Magasin"
+
+#: ../progy-multi-stores.php:83
+msgid "Parent Store"
+msgstr "Magasin parent"
+
+#: ../progy-multi-stores.php:84
+msgid "All Stores"
+msgstr "Tous les magasins"
+
+#: ../progy-multi-stores.php:85
+msgid "View Store"
+msgstr "Voir magasin"
+
+#: ../progy-multi-stores.php:86
+msgid "Add New Store"
+msgstr "Ajouter un nouveau magasin"
+
+#: ../progy-multi-stores.php:87
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+#: ../progy-multi-stores.php:88
+msgid "Edit Store"
+msgstr "Modifier le magasin"
+
+#: ../progy-multi-stores.php:89
+msgid "Update Store"
+msgstr "Mettre à jour le magasin"
+
+#: ../progy-multi-stores.php:90
+msgid "Search Store"
+msgstr "Recherche magasin"
+
+#: ../progy-multi-stores.php:91
+msgid "Not Found"
+msgstr "Pas trouvé"
+
+#: ../progy-multi-stores.php:92
+msgid "Not found in Trash"
+msgstr "Pas trouvé dans la corbeille"
+
+#: ../progy-multi-stores.php:98
+msgid "stores"
+msgstr "magasins"
+
+#: ../progy-multi-stores.php:134
+msgid "Address"
+msgstr "Adresse"
+
+#: ../progy-multi-stores.php:141
+msgid "Contact Info"
+msgstr "Informations de contact"
+
+#: ../progy-multi-stores.php:148
+msgid "Receipt Options"
+msgstr "Options de réception"
+
+#: ../progy-multi-stores.php:178
+msgid "Stock for "
+msgstr "Inventaire pour"
+
+#: ../progy-multi-stores.php:411
+msgid "Select a store..."
+msgstr "Sélectionnez un magasin..."
+
+#: ../templates/address.php:3
+msgid "Address 1"
+msgstr "Adresse 1"
+
+#: ../templates/address.php:7
+msgid "Address 2"
+msgstr "Adresse 2"
+
+#: ../templates/address.php:13
+msgid "City"
+msgstr "Ville"
+
+#: ../templates/address.php:17
+msgid "State/Province"
+msgstr "Etat / Province"
+
+#: ../templates/address.php:23
+msgid "Postcode"
+msgstr "Code postal"
+
+#: ../templates/address.php:27
+msgid "Country"
+msgstr "Pays"
+
+#: ../templates/contact.php:3
+msgid "Web Address"
+msgstr "Adresse web"
+
+#: ../templates/contact.php:7
+msgid "Telephone"
+msgstr "Téléphone"
+
+#: ../templates/contact.php:11
+msgid "Email"
+msgstr "Courriel"
+
+#: ../templates/receipt.php:3
+msgid "Next Invoice ID"
+msgstr "Numéro de facture suivant"
+
+#: ../templates/receipt.php:7
+msgid "Complimentary Close"
+msgstr "Compliment de fin"
+
+#: ../templates/receipt.php:8
+msgid "Personal notes or season greetings, e.g. Thank You for Your Order!"
+msgstr ""
+"Notes personnelles ou salutations de la saison, par exemple Nous vous "
+"remercions de votre commande!"
+
+#: ../templates/receipt.php:11
+msgid "Returns Policy"
+msgstr "Politique de retour"
+
+#: ../templates/receipt.php:12
+msgid "Returns policy, terms and conditions"
+msgstr "Politique de retour, termes et conditions"
+
+#: ../templates/receipt.php:15
+msgid "Footer"
+msgstr "Bas de page"
+
+#: ../templates/receipt.php:16
+msgid "Further footer information, e.g. copyright or branding"
+msgstr ""
+"Informations de bas de page supplémentaires, par exemple droit d'auteur ou "
+"image de marque"
